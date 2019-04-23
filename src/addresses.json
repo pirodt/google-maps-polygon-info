@@ -1,0 +1,5198 @@
+[
+ {
+   "suburb": "10 de Julio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64789
+ },
+ {
+   "suburb": "10 de Marzo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64488
+ },
+ {
+   "suburb": "13 de Junio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64780
+ },
+ {
+   "suburb": "13 de Mayo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64729
+ },
+ {
+   "suburb": "15 de Marzo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64160
+ },
+ {
+   "suburb": "15 de Mayo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64450
+ },
+ {
+   "suburb": "15 de Septiembre",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64760
+ },
+ {
+   "suburb": "16 de Septiembre",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64160
+ },
+ {
+   "suburb": "18 de Febrero",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64234
+ },
+ {
+   "suburb": "18 de Julio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64408
+ },
+ {
+   "suburb": "18 de Marzo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64780
+ },
+ {
+   "suburb": "19 de Abril",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64229
+ },
+ {
+   "suburb": "25 de Marzo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64783
+ },
+ {
+   "suburb": "3 de Febrero",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64109
+ },
+ {
+   "suburb": "4 de Diciembre",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64268
+ },
+ {
+   "suburb": "5 de Mayo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64186
+ },
+ {
+   "suburb": "5 de Mayo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64225
+ },
+ {
+   "suburb": "7 de Noviembre",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64210
+ },
+ {
+   "suburb": "Abelardo Zapata",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64168
+ },
+ {
+   "suburb": "Acero",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64580
+ },
+ {
+   "suburb": "Adolfo Ruiz Cortines",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64760
+ },
+ {
+   "suburb": "Agricola",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64590
+ },
+ {
+   "suburb": "Alamos Corregidora",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64590
+ },
+ {
+   "suburb": "Alfareros",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64753
+ },
+ {
+   "suburb": "Alfonso Corona del Rosal",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64785
+ },
+ {
+   "suburb": "Alfonso Reyes",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64730
+ },
+ {
+   "suburb": "Almaguer",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64568
+ },
+ {
+   "suburb": "Altamira",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64750
+ },
+ {
+   "suburb": "Altavista",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64840
+ },
+ {
+   "suburb": "Altavista Invernadero",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64770
+ },
+ {
+   "suburb": "Altavista Lomas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64770
+ },
+ {
+   "suburb": "Altavista Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64740
+ },
+ {
+   "suburb": "Alvaro Obregon",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64150
+ },
+ {
+   "suburb": "America 2",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64730
+ },
+ {
+   "suburb": "Amway",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64004
+ },
+ {
+   "suburb": "Ancira",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64720
+ },
+ {
+   "suburb": "Ancon del Huajuco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64820
+ },
+ {
+   "suburb": "Antonio I Villarreal",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64390
+ },
+ {
+   "suburb": "Año Pdte Carranza",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64708
+ },
+ {
+   "suburb": "Argentina",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64550
+ },
+ {
+   "suburb": "Arroyo Seco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64740
+ },
+ {
+   "suburb": "Articulo 27 Constitucional",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64210
+ },
+ {
+   "suburb": "Arturo B de la Garza",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64730
+ },
+ {
+   "suburb": "Asarco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64550
+ },
+ {
+   "suburb": "Atoyac de Alvarez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64839
+ },
+ {
+   "suburb": "Avenida Central",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64190
+ },
+ {
+   "suburb": "Aztlan",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64166
+ },
+ {
+   "suburb": "Bahia de Primavera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64835
+ },
+ {
+   "suburb": "Balcones de Altavista",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64770
+ },
+ {
+   "suburb": "Balcones de Mederos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64979
+ },
+ {
+   "suburb": "Balcones del Carmen",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64710
+ },
+ {
+   "suburb": "Balcones del Mirador",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64790
+ },
+ {
+   "suburb": "Baldemar Cantu Alanis",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64726
+ },
+ {
+   "suburb": "Belisario Dominguez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64266
+ },
+ {
+   "suburb": "Bella Vista",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64410
+ },
+ {
+   "suburb": "Benito Juarez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64218
+ },
+ {
+   "suburb": "Benito Juarez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64707
+ },
+ {
+   "suburb": "Bernardo Reyes",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64280
+ },
+ {
+   "suburb": "Brisas del Valle",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64799
+ },
+ {
+   "suburb": "Bocanegra",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64240
+ },
+ {
+   "suburb": "Bosques de las Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64619
+ },
+ {
+   "suburb": "Bosques de Satelite",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64979
+ },
+ {
+   "suburb": "Bosques Mederos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64979
+ },
+ {
+   "suburb": "Brisas Diamante",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64780
+ },
+ {
+   "suburb": "Buenos Aires",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64800
+ },
+ {
+   "suburb": "Campestre Mederos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64970
+ },
+ {
+   "suburb": "Burocratas Federales",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64380
+ },
+ {
+   "suburb": "Burocratas Municipales",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64769
+ },
+ {
+   "suburb": "Buenos Aires",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64800
+ },
+ {
+   "suburb": "Burocratas del Estado",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64380
+ },
+ {
+   "suburb": "Campestre Bugambilias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64989
+ },
+ {
+   "suburb": "Cantu",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64550
+ },
+ {
+   "suburb": "Carpinteros",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64998
+ },
+ {
+   "suburb": "Cañada del Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64979
+ },
+ {
+   "suburb": "Carmelita Cervantes de Camelo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64728
+ },
+ {
+   "suburb": "Carmen Serdan",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64258
+ },
+ {
+   "suburb": "Cerveceria Cuauhtemoc Sa",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64442
+ },
+ {
+   "suburb": "Cementos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64520
+ },
+ {
+   "suburb": "Caracol",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64810
+ },
+ {
+   "suburb": "Ciudad Solidaridad",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64100
+ },
+ {
+   "suburb": "Casasol",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64165
+ },
+ {
+   "suburb": "Centro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64720
+ },
+ {
+   "suburb": "Cerro de la Silla",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64810
+ },
+ {
+   "suburb": "Cerro de la Campana",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64760
+ },
+ {
+   "suburb": "Cerritos Modelo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64159
+ },
+ {
+   "suburb": "Cima de las Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64366
+ },
+ {
+   "suburb": "Colonial la Silla",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64860
+ },
+ {
+   "suburb": "Colinas de Valle Verde",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64117
+ },
+ {
+   "suburb": "Contry Naranjo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64858
+ },
+ {
+   "suburb": "Ciudad Satelite",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64960
+ },
+ {
+   "suburb": "Cnop",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64245
+ },
+ {
+   "suburb": "Colina de San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64630
+ },
+ {
+   "suburb": "Conquistadores",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64208
+ },
+ {
+   "suburb": "Contry Lux",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64845
+ },
+ {
+   "suburb": "Colinas del Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64968
+ },
+ {
+   "suburb": "Colinas de San Gerardo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64638
+ },
+ {
+   "suburb": "Cortijo del Rio Sect la Silla",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64899
+ },
+ {
+   "suburb": "Cooperativa Cuauhtemoc",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64650
+ },
+ {
+   "suburb": "Consulado General de los Estados Unidos de Norteamerica",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64006
+ },
+ {
+   "suburb": "Colina de San Bernabe",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64107
+ },
+ {
+   "suburb": "Croc Nuevo Infonavit",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64200
+ },
+ {
+   "suburb": "Condocasas Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64366
+ },
+ {
+   "suburb": "Constituyentes del 57",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64260
+ },
+ {
+   "suburb": "Contry los Nogales",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64865
+ },
+ {
+   "suburb": "Contry San Juanito",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64859
+ },
+ {
+   "suburb": "Condocasa Mitras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64170
+ },
+ {
+   "suburb": "Cortijo del Rio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64890
+ },
+ {
+   "suburb": "Contry",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64860
+ },
+ {
+   "suburb": "Colonial Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64349
+ },
+ {
+   "suburb": "Cuauhtemoc la Pedrera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64659
+ },
+ {
+   "suburb": "Coyoacan",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64510
+ },
+ {
+   "suburb": "Cumbres 5to Sector",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64619
+ },
+ {
+   "suburb": "Condominios Constitucion",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64019
+ },
+ {
+   "suburb": "Contry el Tesoro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64850
+ },
+ {
+   "suburb": "Cumbres las Palmas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64349
+ },
+ {
+   "suburb": "Croc",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64200
+ },
+ {
+   "suburb": "Cumbres Oro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64340
+ },
+ {
+   "suburb": "Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64610
+ },
+ {
+   "suburb": "Cruz Verde",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64365
+ },
+ {
+   "suburb": "Cumbres Campanario",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64360
+ },
+ {
+   "suburb": "Cumbres 4to Sector",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64619
+ },
+ {
+   "suburb": "Cumbres Quinta Real",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64347
+ },
+ {
+   "suburb": "Cumbres Elite 2do Sector",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64349
+ },
+ {
+   "suburb": "Cuchilla de Zapata",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64784
+ },
+ {
+   "suburb": "Croc Infonavit",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64200
+ },
+ {
+   "suburb": "Cumbres 3er Sector",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64610
+ },
+ {
+   "suburb": "Cumbres de Santa Clara",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64349
+ },
+ {
+   "suburb": "Chapultepec",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64100
+ },
+ {
+   "suburb": "Del Carmen",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64710
+ },
+ {
+   "suburb": "Deportivo Obispado",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64040
+ },
+ {
+   "suburb": "Del Maestro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64180
+ },
+ {
+   "suburb": "Chepevera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64030
+ },
+ {
+   "suburb": "Churubusco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64590
+ },
+ {
+   "suburb": "Del Prado",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64410
+ },
+ {
+   "suburb": "Del Norte",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64500
+ },
+ {
+   "suburb": "Desarrollo Urbano Reforma",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64018
+ },
+ {
+   "suburb": "Diligencias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64987
+ },
+ {
+   "suburb": "Desarrollo las Torres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64760
+ },
+ {
+   "suburb": "Del Vidrio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64549
+ },
+ {
+   "suburb": "Doctores",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64710
+ },
+ {
+   "suburb": "Dif",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64210
+ },
+ {
+   "suburb": "Eduardo Elizondo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64940
+ },
+ {
+   "suburb": "El Barro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64997
+ },
+ {
+   "suburb": "El Encino",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64987
+ },
+ {
+   "suburb": "El Pinito",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64980
+ },
+ {
+   "suburb": "El Mirador de San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64636
+ },
+ {
+   "suburb": "El Milagro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64988
+ },
+ {
+   "suburb": "El Mirador Centro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64070
+ },
+ {
+   "suburb": "El Mirador de las Mitras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64348
+ },
+ {
+   "suburb": "El Rinconcito",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64760
+ },
+ {
+   "suburb": "El Porvenir",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64206
+ },
+ {
+   "suburb": "El Realito",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64820
+ },
+ {
+   "suburb": "El Tesoro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64850
+ },
+ {
+   "suburb": "Emiliano Zapata",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64390
+ },
+ {
+   "suburb": "Empleados Sfeo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64909
+ },
+ {
+   "suburb": "El Uro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64986
+ },
+ {
+   "suburb": "Fierro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64590
+ },
+ {
+   "suburb": "España",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64810
+ },
+ {
+   "suburb": "Fomerrey 105",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64109
+ },
+ {
+   "suburb": "Estrella",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64400
+ },
+ {
+   "suburb": "Fomerrey 1",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64210
+ },
+ {
+   "suburb": "Escorial",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64987
+ },
+ {
+   "suburb": "Fomerrey 6",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64239
+ },
+ {
+   "suburb": "Fomerrey 58",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64469
+ },
+ {
+   "suburb": "Ferrocarrilera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64250
+ },
+ {
+   "suburb": "Eva Samano de Lopez Mateos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64725
+ },
+ {
+   "suburb": "Fomerrey 8",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64160
+ },
+ {
+   "suburb": "Estadio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64830
+ },
+ {
+   "suburb": "Fidel Velazquez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64119
+ },
+ {
+   "suburb": "Fomerrey 87",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64217
+ },
+ {
+   "suburb": "Fomerrey 74",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64419
+ },
+ {
+   "suburb": "Fomerrey 121",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64104
+ },
+ {
+   "suburb": "Fomerrey 24",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64208
+ },
+ {
+   "suburb": "Exseminario",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64049
+ },
+ {
+   "suburb": "Fabriles",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64550
+ },
+ {
+   "suburb": "Fomerrey 45",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64988
+ },
+ {
+   "suburb": "Fomerrey 67",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64170
+ },
+ {
+   "suburb": "Fomerrey 113",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64105
+ },
+ {
+   "suburb": "Fomerrey 112",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64105
+ },
+ {
+   "suburb": "Fomerrey 120",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64104
+ },
+ {
+   "suburb": "Fomerrey 21",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64765
+ },
+ {
+   "suburb": "Felipe Zambrano",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64219
+ },
+ {
+   "suburb": "Fomerrey 125",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64217
+ },
+ {
+   "suburb": "Fomerrey 25",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64107
+ },
+ {
+   "suburb": "Fomerrey 15",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64210
+ },
+ {
+   "suburb": "Fomerrey 124",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64104
+ },
+ {
+   "suburb": "Francisco Gonzalez Bocanegra",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64240
+ },
+ {
+   "suburb": "Fomerrey 96",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64730
+ },
+ {
+   "suburb": "Fomerrey 111",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64217
+ },
+ {
+   "suburb": "Fomerrey Poniente",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64237
+ },
+ {
+   "suburb": "Florida",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64810
+ },
+ {
+   "suburb": "Fray Servando Teresa de Mier",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64233
+ },
+ {
+   "suburb": "Fomerrey 16",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64790
+ },
+ {
+   "suburb": "Fomerrey 35",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64209
+ },
+ {
+   "suburb": "Fomerrey 82",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64210
+ },
+ {
+   "suburb": "Fomerrey 109",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64106
+ },
+ {
+   "suburb": "Felipe Angeles",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64170
+ },
+ {
+   "suburb": "Fomerrey 114",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64105
+ },
+ {
+   "suburb": "Fomerrey 115",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64105
+ },
+ {
+   "suburb": "Garza Nieto",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64420
+ },
+ {
+   "suburb": "Francisco I Madero",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64560
+ },
+ {
+   "suburb": "Francisco Villa",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64228
+ },
+ {
+   "suburb": "Fomerrey 23",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64207
+ },
+ {
+   "suburb": "Fomerrey 116",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64106
+ },
+ {
+   "suburb": "Gonzalitos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64020
+ },
+ {
+   "suburb": "Fomerrey 110",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64106
+ },
+ {
+   "suburb": "Fomerrey 51",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64109
+ },
+ {
+   "suburb": "Fomerrey 10",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64227
+ },
+ {
+   "suburb": "Francisco I Madero Union Nuevas Colonias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64714
+ },
+ {
+   "suburb": "Fomerrey 106",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64235
+ },
+ {
+   "suburb": "Fraccionamiento Industrial",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64299
+ },
+ {
+   "suburb": "Granja Postal",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64988
+ },
+ {
+   "suburb": "Graciano Bortoni",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64178
+ },
+ {
+   "suburb": "Gral Naranjo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64330
+ },
+ {
+   "suburb": "Hacienda Mitras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64340
+ },
+ {
+   "suburb": "Genaro Vazquez Rojas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64148
+ },
+ {
+   "suburb": "Granja Sanitaria",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64230
+ },
+ {
+   "suburb": "Gloria Mendiola",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64219
+ },
+ {
+   "suburb": "Granjas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64229
+ },
+ {
+   "suburb": "Hacienda Santa Clara",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64346
+ },
+ {
+   "suburb": "Hacienda los Encinos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64989
+ },
+ {
+   "suburb": "Hacienda Santa Lucia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64987
+ },
+ {
+   "suburb": "Heriberto Jara",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64429
+ },
+ {
+   "suburb": "Heriberto Jara",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64745
+ },
+ {
+   "suburb": "Hidalgo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64290
+ },
+ {
+   "suburb": "Industrial",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64299
+ },
+ {
+   "suburb": "Hogares Ferrocarrileros",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64260
+ },
+ {
+   "suburb": "Heroe de Nacozari",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64260
+ },
+ {
+   "suburb": "Industria del Vidrio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64549
+ },
+ {
+   "suburb": "Jardin de las Mitras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64300
+ },
+ {
+   "suburb": "Indeco Topo Chico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64216
+ },
+ {
+   "suburb": "Ignacio Altamirano",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64984
+ },
+ {
+   "suburb": "Industrial Lincoln",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64310
+ },
+ {
+   "suburb": "Independencia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64720
+ },
+ {
+   "suburb": "Independencia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64720
+ },
+ {
+   "suburb": "Industrial",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64440
+ },
+ {
+   "suburb": "Instituto Tecnologico de Estudios Superiores de Monterrey",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64849
+ },
+ {
+   "suburb": "Jardin Modelo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64160
+ },
+ {
+   "suburb": "Jardines del Paseo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64900
+ },
+ {
+   "suburb": "Jardines de San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64632
+ },
+ {
+   "suburb": "Jardin de las Flores",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64755
+ },
+ {
+   "suburb": "Jardin Español",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64820
+ },
+ {
+   "suburb": "Juarez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64420
+ },
+ {
+   "suburb": "Jardin Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64347
+ },
+ {
+   "suburb": "Industrial Benito Juarez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64517
+ },
+ {
+   "suburb": "Jardin de las Torres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64754
+ },
+ {
+   "suburb": "Jardines Altavista",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64846
+ },
+ {
+   "suburb": "Jardin",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64050
+ },
+ {
+   "suburb": "Jardines del Contry",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64860
+ },
+ {
+   "suburb": "Jardines del Cerro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64050
+ },
+ {
+   "suburb": "Josefa Ortiz de Dominguez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64250
+ },
+ {
+   "suburb": "Jardines Roma",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64740
+ },
+ {
+   "suburb": "Jardines de las Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64345
+ },
+ {
+   "suburb": "Jose Lopez Portillo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64750
+ },
+ {
+   "suburb": "Julio Camelo Martinez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64759
+ },
+ {
+   "suburb": "Juana de Arco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64510
+ },
+ {
+   "suburb": "La 15",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64766
+ },
+ {
+   "suburb": "Jardines Moderna",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64536
+ },
+ {
+   "suburb": "La Boquilla",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64750
+ },
+ {
+   "suburb": "La Estanzuela Fomerrey 45",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64988
+ },
+ {
+   "suburb": "La Esperanza",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64367
+ },
+ {
+   "suburb": "La Amistad",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64226
+ },
+ {
+   "suburb": "La Campana",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64760
+ },
+ {
+   "suburb": "La Condesa",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64880
+ },
+ {
+   "suburb": "Kennedy",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64260
+ },
+ {
+   "suburb": "La Estanzuela Vieja",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64984
+ },
+ {
+   "suburb": "La Esperanza 1",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64237
+ },
+ {
+   "suburb": "La Herradura",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64890
+ },
+ {
+   "suburb": "La Estanzuela",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64988
+ },
+ {
+   "suburb": "La Estanzuela Nueva",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64988
+ },
+ {
+   "suburb": "La Escondida",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64650
+ },
+ {
+   "suburb": "La Pedrera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64730
+ },
+ {
+   "suburb": "La Española",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64820
+ },
+ {
+   "suburb": "La Meseta",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64264
+ },
+ {
+   "suburb": "La Hacienda",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64890
+ },
+ {
+   "suburb": "La Primavera 2o Sect",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64830
+ },
+ {
+   "suburb": "La Primavera 1er Sect",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64830
+ },
+ {
+   "suburb": "La Primavera 3er Sect",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64830
+ },
+ {
+   "suburb": "La Retama",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64740
+ },
+ {
+   "suburb": "Lago de Patzcuaro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64725
+ },
+ {
+   "suburb": "La Reforma",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64218
+ },
+ {
+   "suburb": "La Republica",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64900
+ },
+ {
+   "suburb": "Laderas del Mirador",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64765
+ },
+ {
+   "suburb": "Lagos del Bosque",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64890
+ },
+ {
+   "suburb": "Las Colinas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64639
+ },
+ {
+   "suburb": "Las Brisas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64780
+ },
+ {
+   "suburb": "Las Pedreras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64235
+ },
+ {
+   "suburb": "Ladrillera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64830
+ },
+ {
+   "suburb": "Las Flores",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64530
+ },
+ {
+   "suburb": "Las Lajas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64638
+ },
+ {
+   "suburb": "Las Estancias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64984
+ },
+ {
+   "suburb": "Las Canteras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64750
+ },
+ {
+   "suburb": "Las Musas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64857
+ },
+ {
+   "suburb": "Laureles de San Angel",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64879
+ },
+ {
+   "suburb": "Las Jaras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64990
+ },
+ {
+   "suburb": "Las Torres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64930
+ },
+ {
+   "suburb": "Lomas de San Francisco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64710
+ },
+ {
+   "suburb": "Leones",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64600
+ },
+ {
+   "suburb": "Lomas de la Unidad Modelo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64167
+ },
+ {
+   "suburb": "Lomas de Anahuac",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64260
+ },
+ {
+   "suburb": "Libertadores de America",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64215
+ },
+ {
+   "suburb": "Loma Larga Poniente",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64710
+ },
+ {
+   "suburb": "Lazaro Cardenas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64269
+ },
+ {
+   "suburb": "Lomas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64030
+ },
+ {
+   "suburb": "Lomas de Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64116
+ },
+ {
+   "suburb": "Loma Bonita",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64250
+ },
+ {
+   "suburb": "Loma Larga",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64710
+ },
+ {
+   "suburb": "Loma Linda",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64120
+ },
+ {
+   "suburb": "Lomas de San Martin",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64220
+ },
+ {
+   "suburb": "Lomas de Valle Alto",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64989
+ },
+ {
+   "suburb": "Lomas del Topo Chico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64205
+ },
+ {
+   "suburb": "Lomas Altavista",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64767
+ },
+ {
+   "suburb": "Los Altos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64370
+ },
+ {
+   "suburb": "Lomas Mederos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64978
+ },
+ {
+   "suburb": "Lomas de Santa Cecilia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64158
+ },
+ {
+   "suburb": "Lomas de Satelite",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64969
+ },
+ {
+   "suburb": "Lomas Modelo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64140
+ },
+ {
+   "suburb": "Los Cedros",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64370
+ },
+ {
+   "suburb": "Lomas del Paseo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64925
+ },
+ {
+   "suburb": "Los Magueyes",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64715
+ },
+ {
+   "suburb": "Los Cristales",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64985
+ },
+ {
+   "suburb": "Los Naranjos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64858
+ },
+ {
+   "suburb": "Llave de Oro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64618
+ },
+ {
+   "suburb": "Los Dorados",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64240
+ },
+ {
+   "suburb": "Luis Echeverria Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64750
+ },
+ {
+   "suburb": "Los Fresnos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64540
+ },
+ {
+   "suburb": "Manuel Avila Camacho",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64265
+ },
+ {
+   "suburb": "Luis M Farias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64716
+ },
+ {
+   "suburb": "Lth",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64830
+ },
+ {
+   "suburb": "Mail Boxes Papeleria Y Apartados del Norte Sa de Cv",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64614
+ },
+ {
+   "suburb": "Los Remates",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64878
+ },
+ {
+   "suburb": "Mail Boxes de Mexico Sa de Cv",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64615
+ },
+ {
+   "suburb": "Luis Echeverria Norte",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64260
+ },
+ {
+   "suburb": "M Prieto",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64809
+ },
+ {
+   "suburb": "Mail Boxes Margen Papeleria Y Copias Sa de Cv",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64616
+ },
+ {
+   "suburb": "Madreselva",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64110
+ },
+ {
+   "suburb": "Madero O Predio Madero",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64248
+ },
+ {
+   "suburb": "Martinez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64550
+ },
+ {
+   "suburb": "Mederos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64980
+ },
+ {
+   "suburb": "Mederos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64950
+ },
+ {
+   "suburb": "Maria Luisa",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64040
+ },
+ {
+   "suburb": "Mail Boxes de Mexico Sa de Cv",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64869
+ },
+ {
+   "suburb": "Martires de Tlatelolco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64780
+ },
+ {
+   "suburb": "Mariano Escobedo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64510
+ },
+ {
+   "suburb": "Mitras Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64020
+ },
+ {
+   "suburb": "Maspalomas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64780
+ },
+ {
+   "suburb": "Miravalle",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64660
+ },
+ {
+   "suburb": "Mexico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64740
+ },
+ {
+   "suburb": "Mirador",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64910
+ },
+ {
+   "suburb": "Mision de San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64636
+ },
+ {
+   "suburb": "Mitras Norte",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64320
+ },
+ {
+   "suburb": "Mirasol",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64100
+ },
+ {
+   "suburb": "Mitras Centro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64460
+ },
+ {
+   "suburb": "Mision Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64348
+ },
+ {
+   "suburb": "Moderna",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64530
+ },
+ {
+   "suburb": "Nueva Española",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64820
+ },
+ {
+   "suburb": "Mision Lincoln",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64110
+ },
+ {
+   "suburb": "Moctezuma",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64240
+ },
+ {
+   "suburb": "Narvarte",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64830
+ },
+ {
+   "suburb": "Modelo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64580
+ },
+ {
+   "suburb": "Monterrey Centro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64000
+ },
+ {
+   "suburb": "Morelos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64180
+ },
+ {
+   "suburb": "Nueva Galicia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64160
+ },
+ {
+   "suburb": "Nueva España",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64840
+ },
+ {
+   "suburb": "Municipal 1",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64218
+ },
+ {
+   "suburb": "Nueva Modelo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64160
+ },
+ {
+   "suburb": "Nueva Topo Chico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64266
+ },
+ {
+   "suburb": "Nueva Cuauhtemoc",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64268
+ },
+ {
+   "suburb": "Nueva Morelos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64180
+ },
+ {
+   "suburb": "Niño Artillero",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64280
+ },
+ {
+   "suburb": "Nuevas Colonias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64710
+ },
+ {
+   "suburb": "Nueva Estanzuela",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64988
+ },
+ {
+   "suburb": "Obrerista",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64470
+ },
+ {
+   "suburb": "Nogales de la Sierra",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64988
+ },
+ {
+   "suburb": "Obrera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64010
+ },
+ {
+   "suburb": "Narciso Mendoza",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64280
+ },
+ {
+   "suburb": "Nuevo Repueblo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64700
+ },
+ {
+   "suburb": "Nueva Madero",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64560
+ },
+ {
+   "suburb": "Nogales Topo Chico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64260
+ },
+ {
+   "suburb": "Ojo de Agua",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64736
+ },
+ {
+   "suburb": "Obispado",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64060
+ },
+ {
+   "suburb": "Pablo A de la Garza",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64580
+ },
+ {
+   "suburb": "Pablo Gonzalez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64250
+ },
+ {
+   "suburb": "Oscar Herrera Hosking",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64229
+ },
+ {
+   "suburb": "Paseo de las Mitras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64118
+ },
+ {
+   "suburb": "Palacio de Gobierno del Estado de Nuevo Leon",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64009
+ },
+ {
+   "suburb": "Paseo de Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64346
+ },
+ {
+   "suburb": "Paseo del Marques",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64798
+ },
+ {
+   "suburb": "Patronato Cruz Verde",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64365
+ },
+ {
+   "suburb": "Pedregal la Silla",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64898
+ },
+ {
+   "suburb": "Pirul",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64860
+ },
+ {
+   "suburb": "Parque Fundidora",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64590
+ },
+ {
+   "suburb": "Pedregal Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64344
+ },
+ {
+   "suburb": "Pedregal",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64784
+ },
+ {
+   "suburb": "Parque Industrial Regiomontano",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64540
+ },
+ {
+   "suburb": "Pdte Juarez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64265
+ },
+ {
+   "suburb": "Paso del Aguila",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64145
+ },
+ {
+   "suburb": "Pedro Lozano",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64400
+ },
+ {
+   "suburb": "Pedro Quintanilla",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64266
+ },
+ {
+   "suburb": "Portal del Huajuco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64989
+ },
+ {
+   "suburb": "Plutarco Elias Calles",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64108
+ },
+ {
+   "suburb": "Portal Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64348
+ },
+ {
+   "suburb": "Prados de San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64632
+ },
+ {
+   "suburb": "Popular",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64290
+ },
+ {
+   "suburb": "Pio X",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64710
+ },
+ {
+   "suburb": "Privada Roma",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64740
+ },
+ {
+   "suburb": "Privada Villa Alta",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64978
+ },
+ {
+   "suburb": "Premier Licon",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64310
+ },
+ {
+   "suburb": "Predio Zapata",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64238
+ },
+ {
+   "suburb": "Provivienda Popular",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64610
+ },
+ {
+   "suburb": "Primero de Mayo Norte",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64550
+ },
+ {
+   "suburb": "Predio 21",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64449
+ },
+ {
+   "suburb": "Plan de San Luis",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64247
+ },
+ {
+   "suburb": "Primero de Mayo Noreste",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64220
+ },
+ {
+   "suburb": "Predio 17",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64447
+ },
+ {
+   "suburb": "Rancho la Bola",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64986
+ },
+ {
+   "suburb": "Progreso",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64420
+ },
+ {
+   "suburb": "Rafael Buelna",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64240
+ },
+ {
+   "suburb": "Reforma",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64550
+ },
+ {
+   "suburb": "Residencial Bosquencinos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64979
+ },
+ {
+   "suburb": "Regina",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64290
+ },
+ {
+   "suburb": "Residencial el Mirador Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64990
+ },
+ {
+   "suburb": "Residencial Mederos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64979
+ },
+ {
+   "suburb": "Residencial Aztlan",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64250
+ },
+ {
+   "suburb": "Residencial Abraham Lincoln",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64310
+ },
+ {
+   "suburb": "Revolucion Proletaria",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64788
+ },
+ {
+   "suburb": "Reforma Urbana",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64249
+ },
+ {
+   "suburb": "Rangel Frias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64165
+ },
+ {
+   "suburb": "Pueblo Quieto",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64280
+ },
+ {
+   "suburb": "Residencial Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64619
+ },
+ {
+   "suburb": "Renacimiento",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64925
+ },
+ {
+   "suburb": "Residencial del Paseo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64920
+ },
+ {
+   "suburb": "Rincon del Valle",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64660
+ },
+ {
+   "suburb": "Real de Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64346
+ },
+ {
+   "suburb": "Rincon de la Sierra",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64926
+ },
+ {
+   "suburb": "Rincon de la Primavera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64834
+ },
+ {
+   "suburb": "Residencial Galerias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64649
+ },
+ {
+   "suburb": "Residencial Florida",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64810
+ },
+ {
+   "suburb": "Residencial Dinastia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64639
+ },
+ {
+   "suburb": "Rincon Colonial la Silla",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64863
+ },
+ {
+   "suburb": "Rincon Colonial Mederos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64979
+ },
+ {
+   "suburb": "Residencial San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64635
+ },
+ {
+   "suburb": "Rene Alvarez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64215
+ },
+ {
+   "suburb": "Rincon de Altavista",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64844
+ },
+ {
+   "suburb": "Rincon de las Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64368
+ },
+ {
+   "suburb": "Rincon de San Jemo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64637
+ },
+ {
+   "suburb": "Rincon de San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64637
+ },
+ {
+   "suburb": "Rincon de Santa Maria",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64650
+ },
+ {
+   "suburb": "Roma Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64700
+ },
+ {
+   "suburb": "Residencial Vidriera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64508
+ },
+ {
+   "suburb": "Rincon de las Colinas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64633
+ },
+ {
+   "suburb": "San Bernabe 15",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64106
+ },
+ {
+   "suburb": "San Bernabe 11",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64105
+ },
+ {
+   "suburb": "Roma",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64700
+ },
+ {
+   "suburb": "San Bernabe 6",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64217
+ },
+ {
+   "suburb": "San Bernabe 9",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64105
+ },
+ {
+   "suburb": "San Bernabe",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64108
+ },
+ {
+   "suburb": "Riveras Lincoln",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64115
+ },
+ {
+   "suburb": "San Angel Norte",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64230
+ },
+ {
+   "suburb": "Rosales",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64764
+ },
+ {
+   "suburb": "Ruben Jaramillo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64489
+ },
+ {
+   "suburb": "San Angel Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64870
+ },
+ {
+   "suburb": "San Bernabe 14",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64106
+ },
+ {
+   "suburb": "San Bernabe 4",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64104
+ },
+ {
+   "suburb": "San Bernabe 1",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64217
+ },
+ {
+   "suburb": "San Bernabe 5",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64217
+ },
+ {
+   "suburb": "San Bernabe Unidad",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64109
+ },
+ {
+   "suburb": "San Bernabe",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64100
+ },
+ {
+   "suburb": "San Bernabe 12",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64105
+ },
+ {
+   "suburb": "San Carlos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64100
+ },
+ {
+   "suburb": "San Bernabe Sect 1",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64100
+ },
+ {
+   "suburb": "San Bernabe 8",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64217
+ },
+ {
+   "suburb": "San Bernabe 10",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64105
+ },
+ {
+   "suburb": "San Bernabe 2",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64104
+ },
+ {
+   "suburb": "San Bernabe 13",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64106
+ },
+ {
+   "suburb": "San Bernabe 3",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64104
+ },
+ {
+   "suburb": "San Francisco de Asis",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64170
+ },
+ {
+   "suburb": "San Gabriel",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64989
+ },
+ {
+   "suburb": "San Jorge",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64330
+ },
+ {
+   "suburb": "San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64640
+ },
+ {
+   "suburb": "San Jemo 3o",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64639
+ },
+ {
+   "suburb": "San Jorge",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64330
+ },
+ {
+   "suburb": "San Jemo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64630
+ },
+ {
+   "suburb": "San Jose",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64270
+ },
+ {
+   "suburb": "San Martin",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64210
+ },
+ {
+   "suburb": "Santa Fe",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64540
+ },
+ {
+   "suburb": "Santa Cecilia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64150
+ },
+ {
+   "suburb": "Santa Fe Norte",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64270
+ },
+ {
+   "suburb": "Santa Maria",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64650
+ },
+ {
+   "suburb": "Santa Cruz",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64160
+ },
+ {
+   "suburb": "Satelite Acueducto",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64968
+ },
+ {
+   "suburb": "Simon Bolivar",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64270
+ },
+ {
+   "suburb": "Santa Sofia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64898
+ },
+ {
+   "suburb": "Sendero San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64659
+ },
+ {
+   "suburb": "Sarabia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64490
+ },
+ {
+   "suburb": "Sierra Morena",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64979
+ },
+ {
+   "suburb": "Sector Heroico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64236
+ },
+ {
+   "suburb": "Sertoma",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64718
+ },
+ {
+   "suburb": "Secretaria de Hacienda Y Credito Publico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64007
+ },
+ {
+   "suburb": "Tanque Guadalupe",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64730
+ },
+ {
+   "suburb": "Sierra Ventana",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64780
+ },
+ {
+   "suburb": "Tierra Y Libertad Secc Sur",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64244
+ },
+ {
+   "suburb": "Talleres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64480
+ },
+ {
+   "suburb": "Tampico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64550
+ },
+ {
+   "suburb": "Terminal",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64580
+ },
+ {
+   "suburb": "Tierra Y Libertad Sect Norte",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64249
+ },
+ {
+   "suburb": "Tecnologico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64700
+ },
+ {
+   "suburb": "Tiraderos 4",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64219
+ },
+ {
+   "suburb": "Topo Chico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64260
+ },
+ {
+   "suburb": "Tijerina",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64460
+ },
+ {
+   "suburb": "Torremolinos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64850
+ },
+ {
+   "suburb": "Torres Licon",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64310
+ },
+ {
+   "suburb": "Tierra Propia (fomerrey 35)",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64209
+ },
+ {
+   "suburb": "Tierra Y Libertad Secc Centro",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64246
+ },
+ {
+   "suburb": "Tiraderos 5",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64219
+ },
+ {
+   "suburb": "Tierra Y Libertad",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64249
+ },
+ {
+   "suburb": "Valle de la Primavera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64833
+ },
+ {
+   "suburb": "Valle del Mirador",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64750
+ },
+ {
+   "suburb": "Union la Michoacana",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64758
+ },
+ {
+   "suburb": "Valle de San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64634
+ },
+ {
+   "suburb": "Valle del Huajuco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64820
+ },
+ {
+   "suburb": "Valle Santa Cecilia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64157
+ },
+ {
+   "suburb": "Treviño",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64570
+ },
+ {
+   "suburb": "Valle de San Martin",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64204
+ },
+ {
+   "suburb": "Unidad Modelo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64140
+ },
+ {
+   "suburb": "Union Adolfo Lopez Mateos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64569
+ },
+ {
+   "suburb": "Union Cuauhtemoc",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64268
+ },
+ {
+   "suburb": "Torres de Satelite",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64950
+ },
+ {
+   "suburb": "Union Riva Palacio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64809
+ },
+ {
+   "suburb": "Valle de la Cima",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64366
+ },
+ {
+   "suburb": "Valle Verde Infonavit",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64117
+ },
+ {
+   "suburb": "Union Francisco Zarco",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64727
+ },
+ {
+   "suburb": "Valle del Marques",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64790
+ },
+ {
+   "suburb": "Union Nuevas Colonias",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64714
+ },
+ {
+   "suburb": "Valle de las Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64347
+ },
+ {
+   "suburb": "Valle de las Brisas",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64790
+ },
+ {
+   "suburb": "Valle de las Mitras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64300
+ },
+ {
+   "suburb": "Valle Verde 3er Sect",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64339
+ },
+ {
+   "suburb": "Unidad Lopez Mateos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64380
+ },
+ {
+   "suburb": "Valle Verde 1er Sect",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64360
+ },
+ {
+   "suburb": "Valparaiso",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64764
+ },
+ {
+   "suburb": "Valle de los Cedros",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64369
+ },
+ {
+   "suburb": "Victoria",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64520
+ },
+ {
+   "suburb": "Urdiales",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64430
+ },
+ {
+   "suburb": "Valle Alto",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64989
+ },
+ {
+   "suburb": "Valle de Santa Lucia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64140
+ },
+ {
+   "suburb": "Unidad del Pueblo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64235
+ },
+ {
+   "suburb": "Valle Verde 2o Sect",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64117
+ },
+ {
+   "suburb": "Valle del Topo Chico Sexto Sector",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64250
+ },
+ {
+   "suburb": "Victor Hugo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64756
+ },
+ {
+   "suburb": "Union Benito Juarez",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64265
+ },
+ {
+   "suburb": "Valle Verde 4to Sector",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64339
+ },
+ {
+   "suburb": "Vidriera",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64520
+ },
+ {
+   "suburb": "Valle Morelos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64180
+ },
+ {
+   "suburb": "Valle del Topo Chico",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64259
+ },
+ {
+   "suburb": "Vidriera Monterrey Sa",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64571
+ },
+ {
+   "suburb": "Valle de Santiago",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64770
+ },
+ {
+   "suburb": "Valle de San Bernabe Infonavit",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64355
+ },
+ {
+   "suburb": "Villa del Marques",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64763
+ },
+ {
+   "suburb": "Villa Florida",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64810
+ },
+ {
+   "suburb": "Villa Mitras",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64170
+ },
+ {
+   "suburb": "Villa de los Alamos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64632
+ },
+ {
+   "suburb": "Venustiano Carranza",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64560
+ },
+ {
+   "suburb": "Villas San Jemo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64634
+ },
+ {
+   "suburb": "Villa Alegre",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64130
+ },
+ {
+   "suburb": "Villa del Rio",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64850
+ },
+ {
+   "suburb": "Valle Infonavit",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64350
+ },
+ {
+   "suburb": "Villa San Jeronimo",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64634
+ },
+ {
+   "suburb": "Villa Cumbres",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64116
+ },
+ {
+   "suburb": "Villa de los Pinos",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64770
+ },
+ {
+   "suburb": "Villas de Lindavista",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64540
+ },
+ {
+   "suburb": "Villa Santa Isabel",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64985
+ },
+ {
+   "suburb": "Villas de la Hacienda",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64898
+ },
+ {
+   "suburb": "Villa San Angel",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64227
+ },
+ {
+   "suburb": "Villa Santa Cecilia",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64150
+ },
+ {
+   "suburb": "Villasol",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64949
+ },
+ {
+   "suburb": "Villa las Fuentes",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64890
+ },
+ {
+   "suburb": "Villa Dorada",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64360
+ },
+ {
+   "suburb": "Vista Hermosa",
+   "city": "Monterrey",
+   "state": "Nuevo León",
+   "postal-code": 64620
+ },
+ {
+   "suburb": "27 de Julio",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66488
+ },
+ {
+   "suburb": "4 de Octubre (fomerrey 72)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66486
+ },
+ {
+   "suburb": "Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66450
+ },
+ {
+   "suburb": "Andalucia",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Antiguo Nogalar",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66484
+ },
+ {
+   "suburb": "Año de Juarez (fomerrey 86)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Aquiles Serdan (fomerrey 33)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66449
+ },
+ {
+   "suburb": "Arboledas de San Jorge",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66465
+ },
+ {
+   "suburb": "Arboledas de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66448
+ },
+ {
+   "suburb": "Arboledas del Mezquital",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66449
+ },
+ {
+   "suburb": "Azteca",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Balcones de Anahuac Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66422
+ },
+ {
+   "suburb": "Balcones de las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66466
+ },
+ {
+   "suburb": "Balcones de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66446
+ },
+ {
+   "suburb": "Barragan",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66425
+ },
+ {
+   "suburb": "Bosques del Nogalar",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Blas Chumacero Ctm",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66473
+ },
+ {
+   "suburb": "Benito Juarez",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Bet El",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "Bosques de Santo Domingo (fomerrey 92)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66485
+ },
+ {
+   "suburb": "Bosques de Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66463
+ },
+ {
+   "suburb": "Bosques de Lindavista",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66473
+ },
+ {
+   "suburb": "Bosques del Roble",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66413
+ },
+ {
+   "suburb": "Casa Blanca",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66475
+ },
+ {
+   "suburb": "Carmen Romano de Lopez Portillo (fomerrey 27)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66444
+ },
+ {
+   "suburb": "Casa Blanca San Angel",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66475
+ },
+ {
+   "suburb": "Centro de Desarrollo Comunitario Cedeco",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66412
+ },
+ {
+   "suburb": "Ciudad Mezquital",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66440
+ },
+ {
+   "suburb": "Central de Carga",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66494
+ },
+ {
+   "suburb": "Colonial las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66465
+ },
+ {
+   "suburb": "Ciudad Minera",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66476
+ },
+ {
+   "suburb": "Constituyentes de Queretaro Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Ciudad Ideal",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Colonial",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66449
+ },
+ {
+   "suburb": "Constituyentes de Queretaro Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Constituyentes del 17",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Colonial Lagrange",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Corral de Piedra",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Constituyentes de Queretaro Sect 4",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Conductores Monterrey Sa",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66493
+ },
+ {
+   "suburb": "Constituyentes de Queretaro Sect 6",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Constituyentes de Queretaro Sect 5",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Costa del Sol",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Constituyentes de Queretaro Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Cuauhtemoc",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66450
+ },
+ {
+   "suburb": "Del Vidrio Oriente Sect 5",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Deportivo Lagrange",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Chapultepec",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66450
+ },
+ {
+   "suburb": "Del Lago Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Del Vidrio",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Del Vidrio Oriente Sect 4",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Del Vidrio",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66492
+ },
+ {
+   "suburb": "Del Lago Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66477
+ },
+ {
+   "suburb": "Del Vidrio Oriente Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "El Agarron",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66488
+ },
+ {
+   "suburb": "Diaz Ordaz",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "El Centenario 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66418
+ },
+ {
+   "suburb": "El Fundador Diaz de Berlanga",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66414
+ },
+ {
+   "suburb": "El Mirador de San Nicolas (fomerrey 129)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66422
+ },
+ {
+   "suburb": "El Naranjal",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66413
+ },
+ {
+   "suburb": "El Refugio Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "El Refugio Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "El Roble",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66450
+ },
+ {
+   "suburb": "Fidel Velazquez Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66496
+ },
+ {
+   "suburb": "Estacion Ramon Treviño",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66425
+ },
+ {
+   "suburb": "Fomerrey 28",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66486
+ },
+ {
+   "suburb": "Fidel Velazquez Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66496
+ },
+ {
+   "suburb": "Fomerrey 92",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66485
+ },
+ {
+   "suburb": "Francisco Garza Sada",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Fomerrey 27",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66444
+ },
+ {
+   "suburb": "Fomerrey 118",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66449
+ },
+ {
+   "suburb": "Fomerrey 30",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66445
+ },
+ {
+   "suburb": "Fomerrey 13",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Fomerrey 34",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66447
+ },
+ {
+   "suburb": "Fomerrey 69",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66489
+ },
+ {
+   "suburb": "Fomerrey 44",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66440
+ },
+ {
+   "suburb": "Fomerrey 12",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Fresnos del Lago",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Floridos Bosques del Nogalar (fomerrey 90)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66488
+ },
+ {
+   "suburb": "Fomerrey 33",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66449
+ },
+ {
+   "suburb": "Fomerrey 119",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66449
+ },
+ {
+   "suburb": "Fomerrey 46",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66437
+ },
+ {
+   "suburb": "Fomerrey 65",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66486
+ },
+ {
+   "suburb": "Francisco Villa",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "Fomerrey 86",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Fomerrey 11",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Futuro Nogalar Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Fomerrey 72",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66486
+ },
+ {
+   "suburb": "Fuentes de Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66444
+ },
+ {
+   "suburb": "Getsemani",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66425
+ },
+ {
+   "suburb": "Fomerrey 129",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66422
+ },
+ {
+   "suburb": "Garza Cantu",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Futuro Nogalar Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66484
+ },
+ {
+   "suburb": "Hacienda los Morales",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66495
+ },
+ {
+   "suburb": "Hacienda el Roble",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66417
+ },
+ {
+   "suburb": "Heroes de Mexico",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66415
+ },
+ {
+   "suburb": "Hacienda los Angeles",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66477
+ },
+ {
+   "suburb": "Hacienda los Morales Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66496
+ },
+ {
+   "suburb": "Hacienda los Morales Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66496
+ },
+ {
+   "suburb": "Hacienda de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66449
+ },
+ {
+   "suburb": "Ideal Minera",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66476
+ },
+ {
+   "suburb": "Hacienda Lagrange",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66499
+ },
+ {
+   "suburb": "Huertas de San Bartolo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66413
+ },
+ {
+   "suburb": "Hacienda los Morales Sect 4",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66496
+ },
+ {
+   "suburb": "Hojalata Y Lamina Sa",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66452
+ },
+ {
+   "suburb": "Industrias del Vidrio Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Iturbide",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66420
+ },
+ {
+   "suburb": "Industrial Nogalar",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66484
+ },
+ {
+   "suburb": "Industrias del Vidrio Oriente",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Ignacio Ramirez",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Industrias del Vidrio",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66492
+ },
+ {
+   "suburb": "Industrias del Vidrio Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66496
+ },
+ {
+   "suburb": "Industrias del Vidrio Sect 4",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66496
+ },
+ {
+   "suburb": "Jardines de Casa Blanca",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66475
+ },
+ {
+   "suburb": "Industrias del Vidrio Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Jardin de las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Jardines de Anahuac Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66463
+ },
+ {
+   "suburb": "Jose Lopez Portillo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Jardines de San Nicolas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66414
+ },
+ {
+   "suburb": "Jardines de Anahuac Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66463
+ },
+ {
+   "suburb": "Jardines del Nogalar (fomerrey 28)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66486
+ },
+ {
+   "suburb": "Jardines de Anahuac Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66463
+ },
+ {
+   "suburb": "Jardines de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66468
+ },
+ {
+   "suburb": "Jardines del Mezquital",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66445
+ },
+ {
+   "suburb": "La Estancia",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66476
+ },
+ {
+   "suburb": "Julio Camelo Treviño",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66469
+ },
+ {
+   "suburb": "La Fe",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66477
+ },
+ {
+   "suburb": "La Nogalera",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66417
+ },
+ {
+   "suburb": "La Joroba",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66459
+ },
+ {
+   "suburb": "La Gloria",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "La Morena (fomerrey 65)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66486
+ },
+ {
+   "suburb": "Lagos de Chapultepec (fomerrey 69)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66489
+ },
+ {
+   "suburb": "La Talaverna",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66473
+ },
+ {
+   "suburb": "Las Esperanzas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66469
+ },
+ {
+   "suburb": "La Talaverna Croc",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66473
+ },
+ {
+   "suburb": "Las Alamedas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Lagrange",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66489
+ },
+ {
+   "suburb": "Las Palmas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66465
+ },
+ {
+   "suburb": "Las Puentes Sect 6",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Misiones",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66428
+ },
+ {
+   "suburb": "Las Puentes Sect 14",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 9",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Laureles",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66465
+ },
+ {
+   "suburb": "Las Puentes Sect 15",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Villas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66420
+ },
+ {
+   "suburb": "Las Puentes Sect 5",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 7",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 11",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 4",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 10",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 12",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Las Puentes Sect 8",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Los Angeles Infonavit Sect 5",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Los Angeles Sect 7",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66475
+ },
+ {
+   "suburb": "Los Angeles Infonavit Sect 4",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Los Angeles Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66477
+ },
+ {
+   "suburb": "Los Cipreses",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66473
+ },
+ {
+   "suburb": "Los Alamos",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "Los Angeles Sect 8",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66475
+ },
+ {
+   "suburb": "Los Reales",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66476
+ },
+ {
+   "suburb": "Lomas del Roble",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66450
+ },
+ {
+   "suburb": "Los Olivos",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66473
+ },
+ {
+   "suburb": "Los Nogales",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66437
+ },
+ {
+   "suburb": "Los Morales",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66440
+ },
+ {
+   "suburb": "Los Naranjos Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66448
+ },
+ {
+   "suburb": "Los Parques",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66445
+ },
+ {
+   "suburb": "Los Nogales",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "Los Mezquites",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66499
+ },
+ {
+   "suburb": "Los Nogales (fomerrey 44)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66440
+ },
+ {
+   "suburb": "Luis M Farias",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66488
+ },
+ {
+   "suburb": "Mariano Escobedo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "Margarita Rodriguez Salazar Cfe",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66479
+ },
+ {
+   "suburb": "Miraflores Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Miguel Aleman",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Mexico Lindo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Miraflores Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Mercado de Abastos Estrella",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66482
+ },
+ {
+   "suburb": "Miraflores Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Miraflores Sect 4",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "Mision de San Cristobal",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Nogalar",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Nuevo Mezquital",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66440
+ },
+ {
+   "suburb": "Nueva las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66436
+ },
+ {
+   "suburb": "Nicolas Bravo Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Nuevo Periferico",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66423
+ },
+ {
+   "suburb": "Nogalar Infonavit",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66486
+ },
+ {
+   "suburb": "Nuevo Laredo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66459
+ },
+ {
+   "suburb": "Nuevo Mundo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Paseo de los Angeles",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Paseo de San Nicolas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66446
+ },
+ {
+   "suburb": "Paseo de San Nicolas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66446
+ },
+ {
+   "suburb": "Parque Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66456
+ },
+ {
+   "suburb": "Paseo de los Andes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66444
+ },
+ {
+   "suburb": "Parque la Talaverna",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66473
+ },
+ {
+   "suburb": "Periferico Norte",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66424
+ },
+ {
+   "suburb": "Paseo de las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Prados del Nogalar (fomerrey 11)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Peña Guerra",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Pedregal de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66444
+ },
+ {
+   "suburb": "Praderas de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66436
+ },
+ {
+   "suburb": "Potrero Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66456
+ },
+ {
+   "suburb": "Prados de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66444
+ },
+ {
+   "suburb": "Predio Aldape",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66482
+ },
+ {
+   "suburb": "Residencial los Pinos",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Quinta las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66465
+ },
+ {
+   "suburb": "Residencial el Roble",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66414
+ },
+ {
+   "suburb": "Real Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66446
+ },
+ {
+   "suburb": "Residencial Riviera",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66490
+ },
+ {
+   "suburb": "Residencial Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66448
+ },
+ {
+   "suburb": "Rincon de Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66422
+ },
+ {
+   "suburb": "Residencial Casa Bella",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66428
+ },
+ {
+   "suburb": "Rincon de los Andes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Residencial Nova",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66464
+ },
+ {
+   "suburb": "Residencial los Nogales",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66417
+ },
+ {
+   "suburb": "Residencial Paseo de los Angeles",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Residencial los Angeles Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Residencial Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66457
+ },
+ {
+   "suburb": "Residencial los Angeles Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Residencial San Nicolas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66414
+ },
+ {
+   "suburb": "Residencial Nogalar",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Rincon del Oriente",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Residencial Periferico",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66420
+ },
+ {
+   "suburb": "Residencial las Puentes Sect 1",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Residencial San Felipe",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66499
+ },
+ {
+   "suburb": "Rincon de los Cedros",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66435
+ },
+ {
+   "suburb": "Residencial Santa Fe",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66477
+ },
+ {
+   "suburb": "Roble San Nicolas Sect 3",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66414
+ },
+ {
+   "suburb": "Roble San Nicolas Sect 4",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66414
+ },
+ {
+   "suburb": "Rincon del Nogalar",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66485
+ },
+ {
+   "suburb": "Royal",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66459
+ },
+ {
+   "suburb": "Roble San Nicolas Sect 2",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66414
+ },
+ {
+   "suburb": "Roble San Nicolas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66414
+ },
+ {
+   "suburb": "Roble Norte",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66458
+ },
+ {
+   "suburb": "Rincon de Casa Blanca",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "San Angel Casa Blanca",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66475
+ },
+ {
+   "suburb": "Salvador Allende",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66486
+ },
+ {
+   "suburb": "Riveras de las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66465
+ },
+ {
+   "suburb": "Rincon de las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "San Antonio",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "Riveras de San Nicolas",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66434
+ },
+ {
+   "suburb": "San Bartolo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66413
+ },
+ {
+   "suburb": "San Isidro",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66413
+ },
+ {
+   "suburb": "San Cristobal",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "San Nicolas de los Garza Centro",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66400
+ },
+ {
+   "suburb": "Santa Maria",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66430
+ },
+ {
+   "suburb": "Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66437
+ },
+ {
+   "suburb": "Santo Domingo Fomerrey 34",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66447
+ },
+ {
+   "suburb": "Secretaria de Hacienda Y Credito Publico 141",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66409
+ },
+ {
+   "suburb": "Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66444
+ },
+ {
+   "suburb": "Tabachines",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66425
+ },
+ {
+   "suburb": "Solidaridad",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66410
+ },
+ {
+   "suburb": "Stiva",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66425
+ },
+ {
+   "suburb": "Tacuba",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Valle Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66450
+ },
+ {
+   "suburb": "Valle Dorado",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66418
+ },
+ {
+   "suburb": "Unidad Laboral",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66440
+ },
+ {
+   "suburb": "Valle de las Flores",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66438
+ },
+ {
+   "suburb": "Torres de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66440
+ },
+ {
+   "suburb": "Valle de Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66438
+ },
+ {
+   "suburb": "Valle Casa Blanca",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Valle del Nogalar",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Valle Azteca (fomerrey 12)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Valle de los Morales",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66496
+ },
+ {
+   "suburb": "Valle de las Granjas (fomerrey 13)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66480
+ },
+ {
+   "suburb": "Villas de Casa Blanca",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66475
+ },
+ {
+   "suburb": "Villa las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66456
+ },
+ {
+   "suburb": "Valle del Roble",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66417
+ },
+ {
+   "suburb": "Valle de San Carlos",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66437
+ },
+ {
+   "suburb": "Valle de las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ },
+ {
+   "suburb": "Vicente Guerrero (fomerrey 46)",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66437
+ },
+ {
+   "suburb": "Vicente Guerrero",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66437
+ },
+ {
+   "suburb": "Villas Santo Domingo",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66437
+ },
+ {
+   "suburb": "Valle Sol",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66418
+ },
+ {
+   "suburb": "Viejo Roble",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66418
+ },
+ {
+   "suburb": "Villa Universidad",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66420
+ },
+ {
+   "suburb": "Villa Esperanza",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66469
+ },
+ {
+   "suburb": "Villas de Oriente",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66470
+ },
+ {
+   "suburb": "Villas de Anahuac",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66422
+ },
+ {
+   "suburb": "Villarreal",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66427
+ },
+ {
+   "suburb": "Villas del Roble",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66417
+ },
+ {
+   "suburb": "Villas San Cristobal",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66478
+ },
+ {
+   "suburb": "Villazul",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66420
+ },
+ {
+   "suburb": "Villa las Puentes",
+   "city": "San Nicolás de los Garza",
+   "state": "Nuevo León",
+   "postal-code": 66460
+ }
+]

@@ -3,8 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.4.3",
+    "axios": "^0.18.0",
+    "babel-loader": "^8.0.5",
+    "google-maps-react": "^2.0.2",
+    "here-maps-react": "^0.1.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-json-to-csv": "^1.0.4",
     "react-scripts": "2.1.8"
   },
   "scripts": {
